@@ -5,8 +5,9 @@ This code demonstrates how to use the ArduinoBLE library to wirelessly send IMU 
 <b>Hardware used:</b>
 
 <ol>-Adafruit BNO055 9DOF IMU Sensor</ol>
-<ol>-Arduino Nano 33 IoT (x2) Sensor</ol>
+<ol>-2 x Arduino Nano 33 IoT Microcontrollers</ol>
 <ol>-Computer (Windows) running Python script</ol>
+<ol>-USB programming cables for Arduino</ol>
  
 
 
