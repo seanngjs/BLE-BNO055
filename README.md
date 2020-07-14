@@ -9,6 +9,7 @@ This code demonstrates how to use the ArduinoBLE library to wirelessly send IMU 
 <ol>-Computer (Windows) running Python script</ol>
 <ol>-USB programming cables for Arduino</ol>
  
+ Read the tutorial at https://seanng.my/2020/07/15/wireless-imu-sensor-using-bluetooth-low-energy-ble/ .
 
 
 
